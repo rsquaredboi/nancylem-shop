@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nancylem.shop/sitemap.xml

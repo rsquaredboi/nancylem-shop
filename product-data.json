@@ -1,0 +1,84 @@
+{
+  "product": {
+    "id": 8862835573057,
+    "gid": "gid://shopify/Product/8862835573057",
+    "handle": "lem",
+    "title": "Lem Clitoral Massager",
+    "vendor": "Nancy",
+    "type": "Personal Massager",
+    "url": "https://hellonancy.com/products/lem"
+  },
+  "variant": {
+    "id": 47204592517441,
+    "sku": "NVIB-LEM-2311Y",
+    "gtin": "860012788408",
+    "price": 89.00,
+    "compare_at_price": 159.00,
+    "savings": 70.00,
+    "currency": "USD"
+  },
+  "promo": {
+    "code": "LEM25",
+    "discount": "25%"
+  },
+  "ratings": {
+    "score": 4.8,
+    "count": 13386,
+    "trustpilot": 4.7
+  },
+  "specs": {
+    "dimensions": "7.8 cm x 5.1 cm",
+    "material": "Medical-grade silicone",
+    "play_time": "120 minutes",
+    "waterproof": "IPX7 rated",
+    "charge_time": "90 minutes",
+    "noise_level": "<50dB",
+    "weight": "0.6 lb",
+    "intensities": 12,
+    "charger": "USB-C & Magnetic Compatible"
+  },
+  "tagline": "Air-suction pulses designed to find your sweet spot. So good, you'll scream.",
+  "description": "Meet Lem - your zesty new playmate for intimate moments. This clitoral massager is perfect for those exploring air suction bliss for the first time, promising longer, more powerful and deeply satisfying orgasms. This happy little lemon combines pleasure with discretion. Featuring 12 unique intensities and patterns, Lem is an ideal choice for those looking for a fresh twist.",
+  "social_proof": "Join 700,000+ Women Who Decided to Come First",
+  "expert": {
+    "name": "Dr. Angela Wright",
+    "title": "GP, Clinical Sexologist, and BMS Registered Menopause Specialist",
+    "quote": "As a doctor who focuses on sexual health, I frequently recommend the Lem as a high quality, beginner friendly suction toy. It's particularly useful for women who sometimes find they become less responsive to vibration after menopause or cancer."
+  },
+  "features": [
+    "12 unique intensities and patterns",
+    "Quiet and discreet",
+    "Medical-grade silicone",
+    "Waterproof (USB-C & Magnetic Compatible)"
+  ],
+  "trust_badges": [
+    "Discreet packaging",
+    "Free shipping worldwide",
+    "30-day satisfaction guarantee"
+  ],
+  "press": ["The Guardian", "Vice", "Tatler", "NBC", "CBS"],
+  "warranty": "12-month warranty",
+  "company": {
+    "name": "Care & Bloom Limited",
+    "address": "2F, Hilltop Plaza, 49 Hollywood Rd, Central, Hong Kong",
+    "email": "care@hellonancy.com",
+    "billing_name": "SP Care & Bloom Nancy"
+  },
+  "meta_pixel": "832767357702650",
+  "theme": {
+    "name": "JollyCode",
+    "id": "t/220",
+    "color": "#f3dce2"
+  },
+  "images": {
+    "gallery": [
+      "images/gallery-1-hero.webp",
+      "images/gallery-2.jpg",
+      "images/gallery-3.jpg",
+      "images/gallery-4.jpg",
+      "images/gallery-5.jpg",
+      "images/gallery-6.jpg"
+    ],
+    "cdn_base": "https://hellonancy.com/cdn/shop/files/"
+  }
+}
